@@ -1,4 +1,8 @@
-# 👋 Hi there, I'm **DIXA**
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000000&color=0ABAB5&background=FFFFFF00&center=false&vCenter=false&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+DIXA;" alt="Typing SVG" />
+</div>
+
+
 
 ### Senior Software Engineer
 
